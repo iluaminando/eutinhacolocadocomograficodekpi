@@ -1,0 +1,13 @@
+KPI,Valor antigo,valor atual,meta
+Precisão geral de acerto,74%,76%,"86,60%"
+Precisão de acerto pequena Launcher,não se aplica,62%,"54,54%"
+Precisão de acerto grande Launcher,74%,79%,"63,88%"
+Média geral de acertos,19 bolas,21 bolas,26 bolas
+Média de acertos pequena Launcher,não se aplica,4 bolas,7 bolas
+Média de acertos grande Launcher,19 bolas,17 bolas,19 bolas
+Média de artefatos geral,25 bolas,28 bolas,30 bolas
+Média de artefatos pequena Launcher,não se aplica,6 bolas,11 bolas
+Média de artefatos grande Launcher,25 bolas,11 bolas,19 bolas
+Média de ciclo geral,"7,4 segundos","8,2 segundos",7 segundos
+Média de ciclo pequena Launcher,não se aplica,"7,12 segundos",7 segundos
+Média de ciclo grande Launcher,"7,4 segundos","7,4 segundos",5 segundos
